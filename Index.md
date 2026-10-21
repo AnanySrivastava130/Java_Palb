@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Make The String Great](./LeetCode/Easy/Make%20The%20String%20Great) - *Easy*
