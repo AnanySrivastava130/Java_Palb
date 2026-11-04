@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
 - [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) - *Medium*
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
 - [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
