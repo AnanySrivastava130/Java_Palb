@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
