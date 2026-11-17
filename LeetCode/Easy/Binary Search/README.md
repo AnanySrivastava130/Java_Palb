@@ -9,7 +9,7 @@
 | **Tags** | Array, Binary Search |
 | **Link** | [View Problem](https://leetcode.com/problems/binary-search/) |
 | **Runtime** | 0 ms |
-| **Memory** | 47.9 MB |
+| **Memory** | 47.8 MB |
 
 ## Problem Description
 
