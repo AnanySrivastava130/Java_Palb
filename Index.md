@@ -23,3 +23,6 @@ All solved problems organized by pattern/category.
 - [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
+
+## Binary Search
+- [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
